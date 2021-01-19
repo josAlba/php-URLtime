@@ -1,0 +1,10 @@
+{
+    "name": "josalba/php-urltime",
+    "authors": [{
+        "name": "Jos Alba",
+        "email": "hola@josalba.dev"
+    }],
+    "require": {
+        "influxdb/influxdb-php": "*"
+    }
+}
